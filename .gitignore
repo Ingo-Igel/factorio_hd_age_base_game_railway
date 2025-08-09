@@ -19,14 +19,11 @@ data/base/graphics/entity/cargo-wagon/cargo-wagon-mask-1.png
 data/base/graphics/entity/cargo-wagon/cargo-wagon-mask-2.png
 data/base/graphics/entity/cargo-wagon/cargo-wagon-mask-3.png
 data/base/graphics/entity/cargo-wagon/cargo-wagon-mask-4.png
-data/base/graphics/entity/cargo-wagon/cargo-wagon-mask.lua
-data/base/graphics/entity/cargo-wagon/cargo-wagon.lua
 data/base/graphics/entity/cargo-wagon/remnants/cargo-wagon-remnants.png
 data/base/graphics/entity/fluid-wagon/fluid-wagon-1.png
 data/base/graphics/entity/fluid-wagon/fluid-wagon-2.png
 data/base/graphics/entity/fluid-wagon/fluid-wagon-3.png
 data/base/graphics/entity/fluid-wagon/fluid-wagon-4.png
-data/base/graphics/entity/fluid-wagon/fluid-wagon.lua
 data/base/graphics/entity/fluid-wagon/remnants/fluid-wagon-remnants.png
 data/base/graphics/entity/locomotive/locomotive-1.png
 data/base/graphics/entity/locomotive/locomotive-2.png
@@ -44,7 +41,6 @@ data/base/graphics/entity/locomotive/locomotive-lights-5.png
 data/base/graphics/entity/locomotive/locomotive-lights-6.png
 data/base/graphics/entity/locomotive/locomotive-lights-7.png
 data/base/graphics/entity/locomotive/locomotive-lights-8.png
-data/base/graphics/entity/locomotive/locomotive-lights.lua
 data/base/graphics/entity/locomotive/locomotive-mask-1.png
 data/base/graphics/entity/locomotive/locomotive-mask-2.png
 data/base/graphics/entity/locomotive/locomotive-mask-3.png
@@ -53,8 +49,6 @@ data/base/graphics/entity/locomotive/locomotive-mask-5.png
 data/base/graphics/entity/locomotive/locomotive-mask-6.png
 data/base/graphics/entity/locomotive/locomotive-mask-7.png
 data/base/graphics/entity/locomotive/locomotive-mask-8.png
-data/base/graphics/entity/locomotive/locomotive-mask.lua
-data/base/graphics/entity/locomotive/locomotive.lua
 data/base/graphics/entity/locomotive/remnants/locomotive-base-remnants.png
 data/base/graphics/entity/locomotive/remnants/mask/locomotive-remnants-mask.png
 data/base/graphics/entity/rails/rail/rail-endings-background.png
